@@ -20,9 +20,9 @@ A Netflix-inspired movie browsing app that uses TMDB API to fetch movie data and
 
 ## 📸 Screenshots
 
-![Main View](![image](https://github.com/user-attachments/assets/4ce94164-851d-4754-9a55-82eed541cbd3))
-![Sign Page](![image](https://github.com/user-attachments/assets/586d9058-780a-48a1-8037-5451d1de6e56))
-![Browse Page](![image](https://github.com/user-attachments/assets/f29d8096-e798-4146-ae22-d070aa6bca08))
+![Main View]((https://github.com/user-attachments/assets/4ce94164-851d-4754-9a55-82eed541cbd3))
+![Sign Page]((https://github.com/user-attachments/assets/586d9058-780a-48a1-8037-5451d1de6e56))
+![Browse Page]((https://github.com/user-attachments/assets/f29d8096-e798-4146-ae22-d070aa6bca08))
 
 ## Project Journey 
 Create React App
